@@ -19,7 +19,8 @@ To create a **learn-to-earn** ecosystem on the Stacks blockchain where:
 - Token gating for advanced content or community access
 
 ## 🔐 Contract Address
-(You will get this after deploying the contract using Clarity tools like Clarinet or the Stacks Explorer)
+(<img width="1366" height="768" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/3c63782b-0cad-4fbb-9981-ee105eed0342" />
+)
 
 Example (placeholder):
 `SP3FBR2AGK71XX93QJ47GEWD4TVBKR1ZK0XQW3N53.web3-crash-course`
