@@ -23,7 +23,7 @@ To create a **learn-to-earn** ecosystem on the Stacks blockchain where:
 )
 
 Example (placeholder):
-`<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f2c47df8-6226-41b9-b414-17ec73ce7e54" />
+`img width="1366" height="768" alt="Screenshot (335)" src="https://github.com/user-attachments/assets/b28c1107-976a-4e9a-967f-052d02100bb5"
 `
 
 ---
