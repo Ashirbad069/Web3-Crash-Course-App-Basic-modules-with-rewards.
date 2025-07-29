@@ -19,12 +19,9 @@ To create a **learn-to-earn** ecosystem on the Stacks blockchain where:
 - Token gating for advanced content or community access
 
 ## 🔐 Contract Address
-(<img width="1366" height="768" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/3c63782b-0cad-4fbb-9981-ee105eed0342" />
-)
+ST5EYHZH49YQAMJRXJ9MCDVR6Q321R8TQSSNRPED.reward-course
+<img width="1366" height="768" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/3c63782b-0cad-4fbb-9981-ee105eed0342" />
 
-Example (placeholder):
-`img width="1366" height="768" alt="Screenshot (335)" src="https://github.com/user-attachments/assets/b28c1107-976a-4e9a-967f-052d02100bb5"
-`
 
 ---
 
